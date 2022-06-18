@@ -1,0 +1,15 @@
+name_english Danish
+name_native dansk
+lang da
+author:
+  name Morten Bo Johansen
+  email listmail at mbjnet dk
+copyright GPLv2
+url https://github.com/mortenivar/dsdo
+version 3.1-0
+accurate true
+complete true
+alias da dansk
+dict:
+  name da
+  add da
