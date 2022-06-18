@@ -4,7 +4,7 @@ lang = da
 version = 3.1-0
 
 cwl_files = da.cwl
-data_files = da.dat
+data_files = da.dat da_phonet.dat
 doc_files = README COPYING Copyright
 extra_files = configure info Makefile.pre
 multi_files = da.multi dansk.alias
