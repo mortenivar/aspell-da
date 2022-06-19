@@ -3,6 +3,8 @@ Version 3.1-0
 2022-06-18
 Original Word List By:
   Morten Bo Johansen <listmail at mbjnet dk>
+  Skåne Sjælland Linux User Group (bestyrelsen at sslug dk)
+  Jacob Sparre Andersen (sparre at nbi dk)
 Copyright Terms: GPLv2 (see the file Copyright for the exact terms)
 This word list is considered both complete and accurate.
 
@@ -23,6 +25,7 @@ if it did not something likely went wrong.
 
 After that build the package with:
   make
+
 and then install it with
   make install
 
@@ -63,7 +66,3 @@ let the Aspell maintainer, Kevin Atkinson, know at kevina@gnu.org.
 If you have problems with the actual word lists please contact one of
 the Word lists authors as the Aspell maintainer does not maintain the
 actual Word Lists.
-
-Any additional documentation that came with the original word list can
-be found in the doc/ directory.
-
