@@ -1,6 +1,19 @@
+# Generated with Aspell Dicts "proc" script version 0.50.3
+
+# Non-letter characters that can appear in your language such as the ‘'’
+# and ‘-’. The format for the value is a list separated by spaces. Each
+# item of the list has the following format.
+
+#   <char> <begin><middle><end>
+
+# char is the non-letter character in question. begin, middle, end are
+# either a ‘-’ or a ‘*’. A star for begin means that the character can
+# begin a word, a ‘-’ means it can’t. The same is true for middle and
+# end. For example, the entry for the ‘'’ in English is:
+#   ' -*-
 name da
 charset iso-8859-1
 data-encoding utf-8
-special ' -** - -** . -**
+special ' -** - -*- . -** / -*-
 soundslike da
 run-together true
