@@ -14,6 +14,6 @@
 name da
 charset iso-8859-1
 data-encoding utf-8
-special ' -** - -*- . -** / -*-
+special ' -** - -*- . -** / -*- . -**
 soundslike da
 run-together true
